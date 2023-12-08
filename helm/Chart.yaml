@@ -13,4 +13,13 @@ appversion: 0.0.0
 deprecated: false
 annotations: {}
 kubeversion: ""
+dependencies:
+- name: onecx-product-store-svc
+  version: 0.0.0-rc.6
+  repository: oci://ghcr.io/onecx/charts
+  condition: ""
+  tags: []
+  enabled: false
+  importvalues: []
+  alias: ""
 type: ""
