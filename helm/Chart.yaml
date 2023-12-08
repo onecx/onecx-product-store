@@ -22,4 +22,12 @@ dependencies:
   enabled: false
   importvalues: []
   alias: ""
+- name: onecx-product-store-operator
+  version: 0.0.0-rc.6
+  repository: oci://ghcr.io/onecx/charts
+  condition: ""
+  tags: []
+  enabled: false
+  importvalues: []
+  alias: ""
 type: ""
