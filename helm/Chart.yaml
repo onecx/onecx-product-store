@@ -1,41 +1,20 @@
-name: onecx-product-store
-home: ""
-sources: []
-version: 0.0.0
-description: ""
-keywords: []
-maintainers: []
-icon: ""
 apiversion: v2
-condition: ""
-tags: ""
+name: onecx-product-store
+version: 0.0.0
 appversion: 0.0.0
-deprecated: false
-annotations: {}
-kubeversion: ""
 dependencies:
 - name: onecx-product-store-svc
-  version: 0.0.0-rc.7
+  version: "*-0"
   repository: oci://ghcr.io/onecx/charts
-  condition: ""
-  tags: []
-  enabled: false
-  importvalues: []
-  alias: ""
+  condition: "deployment.svc"  
+  alias: "svc"
 - name: onecx-product-store-operator
-  version: 0.0.0-rc.6
+  version: "*-0"
   repository: oci://ghcr.io/onecx/charts
-  condition: ""
-  tags: []
-  enabled: false
-  importvalues: []
-  alias: ""
+  condition: "deployment.product-operator"  
+  alias: "product-operator"
 - name: onecx-product-store-mfe-operator
-  version: 0.0.0-rc.6
+  version: "*-0"
   repository: oci://ghcr.io/onecx/charts
-  condition: ""
-  tags: []
-  enabled: false
-  importvalues: []
-  alias: ""
-type: ""
+  condition: "deployment.mfe-operator"  
+  alias: "mfe-operator"

@@ -1,0 +1,4 @@
+deployment:
+  svc: true
+  product-operator: true
+  mfe-operator: true
