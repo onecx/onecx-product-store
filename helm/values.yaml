@@ -2,3 +2,12 @@ deployment:
   svc: true
   product-operator: true
   mfe-operator: true
+
+product:
+  info:
+    data:
+      description: "Onecx product store"
+      imageUrl: ""
+      iconName: "gear"
+      dispalyName: "Product store"
+      basePath: "/product-store"
