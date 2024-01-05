@@ -6,8 +6,9 @@ deployment:
 product:
   info:
     data:
-      description: "Onecx product store"
+      description: "OneCX Product Store"
       imageUrl: ""
       iconName: "gear"
-      dispalyName: "Product store"
+      displayName: "OneCX Product Store"
       basePath: "/product-store"
+      
