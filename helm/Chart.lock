@@ -10,6 +10,6 @@ dependencies:
   version: 0.0.0-rc.10
 - name: onecx-product-store-mfe-operator
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.13
-digest: sha256:71c290c892e72928ad6a2463c08313aa459eee2cd444a6ede76033d3db3317dc
-generated: "2024-02-01T17:57:00.374001138Z"
+  version: 0.0.0-rc.14
+digest: sha256:016841cbf4195b98fb2388a807528db5042cc3cd27a53cf60ba3920f6ff0f2c6
+generated: "2024-02-01T18:07:32.602060666Z"
