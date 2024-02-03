@@ -1,5 +1,7 @@
 deployment:
   svc: true
+  bff: true
+  ui: true
   product-operator: true
   mfe-operator: true
 
