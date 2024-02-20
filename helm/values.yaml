@@ -6,3 +6,12 @@ deployment:
   mfeOperator: true
   msOperator: true
 
+product:
+  info:
+    data:
+      description: "OneCX Product Store"
+      imageUrl: ""
+      iconName: "palette"
+      displayName: "OneCX Product Store"
+      basePath: "/products"  
+
