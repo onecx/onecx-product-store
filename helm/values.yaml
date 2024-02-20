@@ -1,16 +1,7 @@
 deployment:
   svc: true
   bff: true
-  ui: true
-  product-operator: true
-  mfe-operator: true
+  operator: true
+  mfeOperator: true
+  msOperator: true
 
-product:
-  info:
-    data:
-      description: "OneCX Product Store"
-      imageUrl: ""
-      iconName: "gear"
-      displayName: "OneCX Product Store"
-      basePath: "/product-store"
-      
