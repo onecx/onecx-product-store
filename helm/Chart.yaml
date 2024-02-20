@@ -32,8 +32,8 @@ dependencies:
   repository: oci://ghcr.io/onecx/charts
   condition: "deployment.msOperator"
   alias: "msOperator"  
-# - name: onecx-product-store-ui
-#   version: "*-0"
-#   repository: oci://ghcr.io/onecx/charts
-#   condition: "deployment.ui"
-#   alias: "ui"
+- name: onecx-product-store-ui
+  version: "*-0"
+  repository: oci://ghcr.io/onecx/charts
+  condition: "deployment.ui"
+  alias: "ui"
