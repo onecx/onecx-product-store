@@ -27,7 +27,7 @@ dependencies:
   repository: oci://ghcr.io/onecx/charts
   condition: "deployment.mfeOperator"
   alias: "mfeOperator"
-- name: onecx-product-store-mfe-operator
+- name: onecx-product-store-ms-operator
   version: "*-0"
   repository: oci://ghcr.io/onecx/charts
   condition: "deployment.msOperator"
