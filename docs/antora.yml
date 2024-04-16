@@ -1,0 +1,11 @@
+name: onecx-product-store
+title: Product Store Management
+version: latest
+start_page: onecx-product-store:index.adoc
+nav:
+ - modules/onecx-product-store/nav.adoc
+ - modules/onecx-product-store-svc/nav.adoc
+ - modules/onecx-product-store-bff/nav.adoc
+ - modules/onecx-product-store-operator/nav.adoc
+ - modules/onecx-product-store-ms-operator/nav.adoc
+ - modules/onecx-product-store-mfe-operator/nav.adoc
