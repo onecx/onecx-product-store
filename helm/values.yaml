@@ -5,6 +5,7 @@ deployment:
   operator: true
   mfeOperator: true
   msOperator: true
+  slotOperator: true
 
 product:
   info:

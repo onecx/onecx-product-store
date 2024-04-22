@@ -9,3 +9,4 @@ nav:
  - modules/onecx-product-store-operator/nav.adoc
  - modules/onecx-product-store-ms-operator/nav.adoc
  - modules/onecx-product-store-mfe-operator/nav.adoc
+ - modules/onecx-product-store-slot-operator/nav.adoc 
