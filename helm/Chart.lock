@@ -22,6 +22,6 @@ dependencies:
   version: 0.0.0-rc.49
 - name: onecx-product-store-slot-operator
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.8
-digest: sha256:342db308bf8082d63b66473ce7d17281a9566f40475969476ffe5128700ee629
-generated: "2024-06-11T15:52:27.270570206Z"
+  version: 0.0.0-rc.9
+digest: sha256:f8ffa45c8712e177530637f13f1602dcd89aa3a88e16afb85e2ca97342e8bdf0
+generated: "2024-06-11T16:18:11.12722987Z"
