@@ -19,9 +19,9 @@ dependencies:
   version: 0.0.0-rc.27
 - name: onecx-product-store-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.70
+  version: 0.0.0-rc.71
 - name: onecx-product-store-slot-operator
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.21
-digest: sha256:695fad333132396c06f6eefe2fbdf441a443ca535ab0a32a51747f89d17636ee
-generated: "2024-08-23T06:35:24.77037974Z"
+digest: sha256:e1f3162b22316112676b0213e36fd20f615b29dd69698b576a0580bae0830acc
+generated: "2024-08-24T10:39:06.785052691Z"
