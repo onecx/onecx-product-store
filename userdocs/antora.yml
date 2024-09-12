@@ -1,0 +1,8 @@
+name: onecx-product-store
+title: Product Store
+version: latest
+start_page: general:index.adoc
+nav:
+ - modules/general/nav.adoc
+ - modules/ui/nav.adoc
+
