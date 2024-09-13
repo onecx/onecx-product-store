@@ -8,7 +8,7 @@ You may obtain a copy of the license in the corresponding LICENSE file or visit 
 We welcome contributions from the community.
 If you would like to contribute to the development of OneCX Product Store Software, please follow our contribution guidelines (tbd).
 
-== What is the  Product Store?
+== What is the Product Store?
 Product Store refers to managing products and apps usable in the context of OneCX applications.
 
 == Key Features
