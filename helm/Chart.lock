@@ -16,12 +16,12 @@ dependencies:
   version: 0.0.0-rc.41
 - name: onecx-product-store-ms-operator
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.27
+  version: 0.0.0-rc.28
 - name: onecx-product-store-ui
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.78
 - name: onecx-product-store-slot-operator
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.21
-digest: sha256:9af39793641ab66bc41cde8a0cc087d3847f05a526301356a9f0a3b53475ed48
-generated: "2024-09-13T05:26:36.073885577Z"
+  version: 0.0.0-rc.22
+digest: sha256:c1de2efbc35addde1874646bc509f0d4825fad002de9b2675f93ad2d46ad9d2f
+generated: "2024-09-13T08:01:56.701681155Z"
