@@ -10,7 +10,7 @@ dependencies:
   version: 0.0.0-rc.62
 - name: onecx-product-store-operator
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.39
+  version: 0.0.0-rc.40
 - name: onecx-product-store-mfe-operator
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.44
@@ -23,5 +23,5 @@ dependencies:
 - name: onecx-product-store-slot-operator
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.24
-digest: sha256:6433ff61ab0969bbe7fc6112324914131c69037672fa4d3e07e32a3d5e072ac3
-generated: "2024-09-17T11:10:02.584149414Z"
+digest: sha256:125e7983bdfc7a6b7e478146f2042c982401d72194c510dd26fa60656d94e83b
+generated: "2024-09-17T11:54:48.860648237Z"
