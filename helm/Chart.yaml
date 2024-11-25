@@ -37,8 +37,3 @@ dependencies:
   repository: oci://ghcr.io/onecx/charts
   condition: "deployment.ui"
   alias: "ui"
-- name: onecx-product-store-slot-operator
-  version: "*-0"
-  repository: oci://ghcr.io/onecx/charts
-  condition: "deployment.slotOperator"
-  alias: "slotOperator"
