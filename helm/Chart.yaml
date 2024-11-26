@@ -22,11 +22,6 @@ dependencies:
   repository: oci://ghcr.io/onecx/charts
   condition: "deployment.product-operator"
   alias: "operator"
-- name: onecx-product-store-mfe-operator
-  version: "*-0"
-  repository: oci://ghcr.io/onecx/charts
-  condition: "deployment.mfeOperator"
-  alias: "mfeOperator"
 - name: onecx-product-store-ui
   version: "*-0"
   repository: oci://ghcr.io/onecx/charts
