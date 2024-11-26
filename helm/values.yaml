@@ -4,7 +4,6 @@ deployment:
   ui: true
   operator: true
   mfeOperator: true
-  msOperator: true
 
 product:
   info:
