@@ -1,13 +1,13 @@
 name: onecx-product-store
-title: Product Store Management
+title: Application Store Management
 version: latest
 start_page: general:index.adoc
 nav:
- - modules/general/nav.adoc
- - modules/onecx-product-store-ui/nav.adoc
- - modules/onecx-product-store-svc/nav.adoc
- - modules/onecx-product-store-bff/nav.adoc
- - modules/onecx-product-store-operator/nav.adoc
- - modules/onecx-product-store-ms-operator/nav.adoc
- - modules/onecx-product-store-mfe-operator/nav.adoc
- - modules/onecx-product-store-slot-operator/nav.adoc 
+  - modules/general/nav.adoc
+  - modules/onecx-product-store-ui/nav.adoc
+  - modules/onecx-product-store-svc/nav.adoc
+  - modules/onecx-product-store-bff/nav.adoc
+  - modules/onecx-product-store-operator/nav.adoc
+  - modules/onecx-product-store-ms-operator/nav.adoc
+  - modules/onecx-product-store-mfe-operator/nav.adoc
+  - modules/onecx-product-store-slot-operator/nav.adoc
