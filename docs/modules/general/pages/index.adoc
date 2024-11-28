@@ -44,7 +44,7 @@ You may obtain a copy of the license in the corresponding LICENSE file or visit 
 We welcome contributions from the community.
 If you would like to contribute to the development of OneCX Application Store Software, please follow our contribution guidelines (tbd).
 
-== Issue tracking
+== Issue Tracking
 All OneCX Application Store issues are tracked and maintained at the link:https://xyz.com[issue tracking tool].
 
 == Structure overview
