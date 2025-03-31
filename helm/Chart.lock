@@ -1,7 +1,7 @@
 dependencies:
 - name: helm-product
   repository: oci://ghcr.io/onecx/charts
-  version: 0.2.0
+  version: 0.3.0
 - name: onecx-product-store-svc
   repository: oci://ghcr.io/onecx/charts
   version: 1.6.0-rc.1
@@ -13,6 +13,6 @@ dependencies:
   version: 1.5.0
 - name: onecx-product-store-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 1.7.0-rc.1
-digest: sha256:47a350385066b79f5d1e4e2c5915ac11c05df021fc74746ec22f969e4dfdcc4e
-generated: "2025-03-28T04:57:14.14189486Z"
+  version: 1.7.0-rc.2
+digest: sha256:8b50f438b07150bc65765ad5e4ec5a6dc8b506374e7528a280000b7d148beb1b
+generated: "2025-03-31T10:03:39.918942392Z"
