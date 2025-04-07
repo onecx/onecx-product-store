@@ -3,7 +3,6 @@ deployment:
   bff: true
   ui: true
   operator: true
-  mfeOperator: true
 
 product:
   info:
