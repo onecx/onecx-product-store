@@ -9,7 +9,8 @@ product:
     data:
       description: "OneCX Product Store"
       imageUrl: ""
-      iconName: "palette"
+      iconName: palette
       displayName: "OneCX Product Store"
-      basePath: "/products"  
+      basePath: /products
+      provider: "OneCX Team"
 
