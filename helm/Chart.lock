@@ -7,12 +7,12 @@ dependencies:
   version: 1.9.0-rc.18
 - name: onecx-product-store-bff
   repository: oci://ghcr.io/onecx/charts
-  version: 1.7.0-rc.15
+  version: 1.7.0-rc.16
 - name: onecx-product-store-operator
   repository: oci://ghcr.io/onecx/charts
   version: 1.6.0-rc.15
 - name: onecx-product-store-ui
   repository: oci://ghcr.io/onecx/charts
   version: 1.9.0-rc.27
-digest: sha256:b064fec5942c3187b896c301adb817b0fc994dd90bb118b50f78bf08efe4edd4
-generated: "2025-08-07T06:13:30.463876409Z"
+digest: sha256:cbc9dbe4a594733daca26f4ed0768f5cea51a4985b788b6a630eb2688eb6b3a9
+generated: "2025-08-07T08:49:50.256943286Z"
