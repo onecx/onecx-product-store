@@ -4,7 +4,7 @@ dependencies:
   version: 0.3.0
 - name: onecx-product-store-svc
   repository: oci://ghcr.io/onecx/charts
-  version: 1.10.0
+  version: 1.11.0-rc.1
 - name: onecx-product-store-bff
   repository: oci://ghcr.io/onecx/charts
   version: 1.7.0
@@ -14,5 +14,5 @@ dependencies:
 - name: onecx-product-store-ui
   repository: oci://ghcr.io/onecx/charts
   version: 1.9.0
-digest: sha256:a07443361f5c3dd40fa4762c41d51bc2fd0f064850a3985911022b3363e2392a
-generated: "2025-08-15T14:54:51.27769638Z"
+digest: sha256:5d5b3d2fca777c7800cd3ac71f83389f56e04b6a98c20490a50bb0ec6c89b7d1
+generated: "2025-08-18T09:32:57.286096034Z"
