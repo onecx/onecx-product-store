@@ -14,4 +14,4 @@ product:
       basePath: /products
       provider: "OneCX Team"
       classifications: [ "Administration" ]
-
+      multitenancy: false
