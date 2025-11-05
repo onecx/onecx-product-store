@@ -13,5 +13,3 @@ jobs:
   branch:
     uses: onecx/ci-product/.github/workflows/build-branch.yml@v1
     secrets: inherit
-    with:
-      native: true
