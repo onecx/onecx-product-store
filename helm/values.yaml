@@ -15,3 +15,4 @@ product:
       provider: "OneCX Team"
       classifications: [ "Administration" ]
       multitenancy: false
+
