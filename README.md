@@ -1,2 +1,2 @@
 # onecx-product-store
-OneCx product store
+OneCX Product / Application Store
