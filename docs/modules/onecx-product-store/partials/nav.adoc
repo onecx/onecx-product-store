@@ -1,0 +1,9 @@
+* xref:documentation:onecx-product-store:index.adoc[Product Store]
++
+include::documentation:onecx-product-store-ui:partial$nav.adoc[]
++
+include::documentation:onecx-product-store-bff:partial$nav.adoc[]
++
+include::documentation:onecx-product-store-svc:partial$nav.adoc[]
++
+include::documentation:onecx-product-store-operator:partial$nav.adoc[]

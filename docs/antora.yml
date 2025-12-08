@@ -1,13 +1,4 @@
-name: onecx-product-store
-title: Application Store Management
+# Define the same name space as used for the parent documentation project https://github.com/onecx/docs
+name: documentation
 version: latest
-start_page: general:index.adoc
-nav:
-  - modules/general/nav.adoc
-  - modules/onecx-product-store-ui/nav.adoc
-  - modules/onecx-product-store-svc/nav.adoc
-  - modules/onecx-product-store-bff/nav.adoc
-  - modules/onecx-product-store-operator/nav.adoc
-  - modules/onecx-product-store-ms-operator/nav.adoc
-  - modules/onecx-product-store-mfe-operator/nav.adoc
-  - modules/onecx-product-store-slot-operator/nav.adoc
+# Do not add any further properties here. This will affect the parent documentation project.
