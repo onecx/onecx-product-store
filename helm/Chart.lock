@@ -13,6 +13,6 @@ dependencies:
   version: 1.11.0-rc.18
 - name: onecx-product-store-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 1.13.0-rc.28
-digest: sha256:40e36c743e8c78d445d347076c8a14f3881c71612b52b47ca7201ec5169a200b
-generated: "2026-08-26T22:04:29.186428876Z"
+  version: 1.13.0-rc.29
+digest: sha256:a4c4dd2f983e79a28c9c58377254ccb960c187f5fd1f917a88fddd8dc8c3c7d1
+generated: "2026-08-29T16:12:10.521189082Z"
